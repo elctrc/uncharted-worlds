@@ -30,11 +30,11 @@ Sadly, you've never had time for fun or relaxation. You gain +1 to your Expertis
 **Productive:** The Productive live in societies, cultures or groups that place high importance on education and social responsibility. From a young age they begin training for their destined profession, devoting any spare time to higher education and secondary vocations.
 
 ## Stats
-Mettle +1
-Physique -1
-Influence +2
-Expertise +2
-Interface 0
+- Mettle +1
+- Physique -1
+- Influence +2
+- Expertise +2
+- Interface 0
 
 ## Advancement
 A rich resource is found.
