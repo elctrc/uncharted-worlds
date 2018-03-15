@@ -47,3 +47,21 @@ A rich resource is found.
 
 ## Workspace
 **Research:** Sensors gather scientific readings. Laboratory, containment units, sample scanners, sealed storage.
+
+## Backstory
+I was a minor entrepreneur. Then an alien crash-landed (Green Lantern-style) on whatever leisure planet I was living on
+
+I knew immediately the tech was far beyond anything I had seen. The alien died in the crash and I buried him where no one would find him.
+I salvaged the ship and found a saavy engineer to reverse engineer a special tech that would alter the current economy drastically
+
+That tech is the ONLY other person who knows about it.
+We then we began making ships with this alien tech included, as well as selling it independently as an add-on.
+
+My ship has this device installed.
+
+## Faction Idea
+The faction’s name is The Great Swap. They are an intergalactic syndicate, whose goal is to control commerce throughout the galaxy. They organize trade routes which they protect from pirates with their own policing force.
+
+They also run conventions twice a year gathering the most clever tradesmen in the galaxy, to exchange gear at reduced rates. It is like a County Fair but in space - all the ships connect up using long airtight tubes to small central hubs, where businessmen and tradespeople alike can wander from ship to ship making deals.
+
+My company, DispatchX, is known for its flagship product, LBUL (Leap Before You Look), colloquially known as Lil’ Bull, which is a black box product connected to a ship’s light speed drive that makes wild jumps much safer and more predictable, using a proprietary algorithm that can predict the likelihood of space anomalies, starships, and uncharted planets along a foreign jump. (edited)
